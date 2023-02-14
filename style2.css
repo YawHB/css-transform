@@ -28,45 +28,35 @@ footer {
 
 .redBox {
   background-color: #ff1d00;
-  translate: 200px 200px;
+  translate: 30% 30%;
   position: absolute;
-  transform-origin: bottom left;
-  rotate: 360deg;
-  z-index: 5;
+  scale: 0.5;
 }
 
 .yellowBox {
   background-color: #ffeb00;
-  translate: 200px 200px;
+  translate: 80% 80%;
   position: absolute;
-  transform-origin: bottom left;
-  rotate: 216deg;
-  z-index: 4;
+  scale: 1;
 }
 
 .pinkBox {
   background-color: #ff9ecf;
-  translate: 200px 200px;
+  translate: 150% 150%;
   position: absolute;
-  transform-origin: bottom left;
-  rotate: 288deg;
-  z-index: 3;
+  scale: 1.5;
 }
 
 .greenBox {
   background-color: #1fd81f;
-  translate: 200px 200px;
+  translate: 250% 250%;
   position: absolute;
-  transform-origin: bottom left;
-  rotate: 144deg;
-  z-index: 2;
+  scale: 2;
 }
 
 .blueBox {
   background-color: #0180fc;
-  translate: 200px 200px;
+  translate: 380% 380%;
   position: absolute;
-  transform-origin: bottom left;
-  rotate: 72deg;
-  z-index: 1;
+  scale: 2.5;
 }
